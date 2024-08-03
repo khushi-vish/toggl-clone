@@ -1157,15 +1157,15 @@ footer {
 }
 
 .img1:hover {
-  content: url("./assets/toggl-1.2.JPG");
+  content: url("../assets/toggl-1.2.JPG");
 }
 
 .img2:hover {
-  content: url("./assets/toggl-2.2.JPG");
+  content: url("../assets/toggl-2.2.JPG");
 }
 
 .img3:hover {
-  content: url("./assets/toggl-3.2.JPG");
+  content: url("../assets/toggl-3.2.JPG");
 }
 
 .social-links {
@@ -1269,7 +1269,7 @@ footer {
   }
 
   .logo-img {
-    content: url("./assets/toggl-media-query.JPG");
+    content: url("../assets/toggl-media-query.JPG");
     height: 40px;
   }
 
